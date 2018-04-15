@@ -1,0 +1,8 @@
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\ApplicationServices.ConsumerNavigation\bin\Release\netcoreapp2.0\ApplicationServices.CollectNavigation.deps.json
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\ApplicationServices.ConsumerNavigation\bin\Release\netcoreapp2.0\ApplicationServices.CollectNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\ApplicationServices.ConsumerNavigation\bin\Release\netcoreapp2.0\ApplicationServices.CollectNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\ApplicationServices.ConsumerNavigation\obj\Release\netcoreapp2.0\ApplicationServices.CollectNavigation.csproj.CoreCompileInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\ApplicationServices.ConsumerNavigation\obj\Release\netcoreapp2.0\ApplicationServices.CollectNavigation.AssemblyInfoInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\ApplicationServices.ConsumerNavigation\obj\Release\netcoreapp2.0\ApplicationServices.CollectNavigation.AssemblyInfo.cs
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\ApplicationServices.ConsumerNavigation\obj\Release\netcoreapp2.0\ApplicationServices.CollectNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\ApplicationServices.ConsumerNavigation\obj\Release\netcoreapp2.0\ApplicationServices.CollectNavigation.pdb

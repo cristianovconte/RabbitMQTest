@@ -1,0 +1,12 @@
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\bin\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.deps.json
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\bin\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\bin\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\bin\Release\netcoreapp2.0\Domain.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\bin\Release\netcoreapp2.0\Domain.ConsumerNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\obj\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.csprojResolveAssemblyReference.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\obj\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.csproj.CoreCompileInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\obj\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.AssemblyInfoInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\obj\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.AssemblyInfo.cs
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\obj\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.csproj.CopyComplete
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\obj\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\RepositoriesServices.ConsumerNavigation\obj\Release\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.pdb

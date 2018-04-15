@@ -1,0 +1,14 @@
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\bin\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.deps.json
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\bin\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\bin\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\obj\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.csproj.CoreCompileInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\obj\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.AssemblyInfoInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\obj\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.AssemblyInfo.cs
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\obj\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\obj\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\bin\Debug\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\bin\Debug\netcoreapp2.0\RepositoriesServices.ConsumerNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\obj\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.csprojResolveAssemblyReference.cache
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\obj\Debug\netcoreapp2.0\Repositories.ConsumerNavigation.csproj.CopyComplete
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\bin\Debug\netcoreapp2.0\Domain.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\ConsumerNavigation\Repositories.ConsumerNavigation\bin\Debug\netcoreapp2.0\Domain.ConsumerNavigation.pdb

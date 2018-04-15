@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Application.ConsumerNavigation/1.0.0": {
+        "dependencies": {
+          "ApplicationServices.ConsumerNavigation": "1.0.0",
+          "RepositoriesServices.ConsumerNavigation": "1.0.0"
+        },
+        "runtime": {
+          "Application.ConsumerNavigation.dll": {}
+        }
+      },
+      "ApplicationServices.ConsumerNavigation/1.0.0": {
+        "runtime": {
+          "ApplicationServices.ConsumerNavigation.dll": {}
+        }
+      },
+      "Domain.ConsumerNavigation/1.0.0": {
+        "runtime": {
+          "Domain.ConsumerNavigation.dll": {}
+        }
+      },
+      "RepositoriesServices.ConsumerNavigation/1.0.0": {
+        "dependencies": {
+          "Domain.ConsumerNavigation": "1.0.0"
+        },
+        "runtime": {
+          "RepositoriesServices.ConsumerNavigation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.ConsumerNavigation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApplicationServices.ConsumerNavigation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.ConsumerNavigation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoriesServices.ConsumerNavigation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

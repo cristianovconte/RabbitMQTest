@@ -1,0 +1,8 @@
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Release\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.deps.json
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Release\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Release\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Release\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Release\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.AssemblyInfoInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Release\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.AssemblyInfo.cs
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Release\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Release\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.pdb

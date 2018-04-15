@@ -1,0 +1,14 @@
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.deps.json
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.AssemblyInfoInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.AssemblyInfo.cs
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.csprojResolveAssemblyReference.cache
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Debug\netcoreapp2.0\Domain.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Debug\netcoreapp2.0\RepositoriesServices.CollectNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Debug\netcoreapp2.0\RepositoriesServices.CollectNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\bin\Debug\netcoreapp2.0\Domain.ConsumerNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\CrossCutting.RabbitMQ\obj\Debug\netcoreapp2.0\CrossCutting.RabbitMQ.Consumer.csproj.CopyComplete
