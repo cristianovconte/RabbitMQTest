@@ -3,6 +3,10 @@ Exemplo de um emulador de navegação de um site que trabalha produzindo conteú
 
 Para executar o projeto:
 
+Configurar em ambos webconfig dos projetos as chaves de qual servidor e fila do RabbitMQ:
+CollectNavigation\Presentation.ConsumerNavigation\App.config
+CollectNavigation\Presentation.EmulateNavigation\App.config
+
 Emulador de navegação de um site
 cd CollectNavigation\Presentation.EmulateNavigation
 dotnet run
