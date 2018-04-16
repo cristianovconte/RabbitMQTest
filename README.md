@@ -8,16 +8,15 @@ CollectNavigation\CollectNavigation.sln
 
 2. Alterar o connectionstring do banco de dados
 CollectNavigation/Presentation.ConsumerNavigation/App.config
-CollectNavigation/Presentation.EmulateNavigation/App.config
 
-3. Compilar todos projetos
-
-4. Criar o banco de dados
-No projeto CollectNavigation/Repositories.ConsumerNavigation/ executar o commando "Update-Database" no Nuget para gerar a base local.
-
-5. Configurar em ambos webconfig dos projetos as chaves de qual servidor e fila do RabbitMQ:
+3. Configurar em ambos webconfig dos projetos as chaves de qual servidor e fila do RabbitMQ:
 CollectNavigation/Presentation.ConsumerNavigation/App.config
 CollectNavigation/Presentation.EmulateNavigation/App.config
+
+4. Compilar todos projetos
+
+5. Criar o banco de dados
+No projeto CollectNavigation/Repositories.ConsumerNavigation/ executar o commando "Update-Database" no Nuget para gerar a base local.
 
 6. Emulador de navegação de um site
 cd CollectNavigation/Presentation.EmulateNavigation
