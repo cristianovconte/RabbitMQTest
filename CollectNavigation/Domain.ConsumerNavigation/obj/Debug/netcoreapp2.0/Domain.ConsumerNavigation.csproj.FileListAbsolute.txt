@@ -15,3 +15,11 @@ C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\Domain.ConsumerNavig
 C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\Domain.ConsumerNavigation\obj\Debug\netcoreapp2.0\Domain.ConsumerNavigation.dll
 C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\Domain.ConsumerNavigation\obj\Debug\netcoreapp2.0\Domain.ConsumerNavigation.pdb
 C:\Users\cconte\source\repos\RabbitMQTest\CollectNavigation\Domain.ConsumerNavigation\obj\Debug\netcoreapp2.0\Domain.ConsumerNavigation.csprojResolveAssemblyReference.cache
+C:\Users\cconte\source\repos\RabbitMQTest2\CollectNavigation\Domain.ConsumerNavigation\bin\Debug\netcoreapp2.0\Domain.ConsumerNavigation.deps.json
+C:\Users\cconte\source\repos\RabbitMQTest2\CollectNavigation\Domain.ConsumerNavigation\bin\Debug\netcoreapp2.0\Domain.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest2\CollectNavigation\Domain.ConsumerNavigation\bin\Debug\netcoreapp2.0\Domain.ConsumerNavigation.pdb
+C:\Users\cconte\source\repos\RabbitMQTest2\CollectNavigation\Domain.ConsumerNavigation\obj\Debug\netcoreapp2.0\Domain.ConsumerNavigation.csproj.CoreCompileInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest2\CollectNavigation\Domain.ConsumerNavigation\obj\Debug\netcoreapp2.0\Domain.ConsumerNavigation.AssemblyInfoInputs.cache
+C:\Users\cconte\source\repos\RabbitMQTest2\CollectNavigation\Domain.ConsumerNavigation\obj\Debug\netcoreapp2.0\Domain.ConsumerNavigation.AssemblyInfo.cs
+C:\Users\cconte\source\repos\RabbitMQTest2\CollectNavigation\Domain.ConsumerNavigation\obj\Debug\netcoreapp2.0\Domain.ConsumerNavigation.dll
+C:\Users\cconte\source\repos\RabbitMQTest2\CollectNavigation\Domain.ConsumerNavigation\obj\Debug\netcoreapp2.0\Domain.ConsumerNavigation.pdb

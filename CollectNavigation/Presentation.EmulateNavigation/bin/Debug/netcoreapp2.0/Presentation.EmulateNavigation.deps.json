@@ -1212,7 +1212,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.2",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.2",
-          "RepositoriesServices.CollectNavigation": "1.0.0"
+          "RepositoriesServices.CollectNavigation": "1.0.0",
+          "System.Configuration.ConfigurationManager": "4.4.1"
         },
         "runtime": {
           "Repositories.CollectNavigation.dll": {}
